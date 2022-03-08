@@ -1,0 +1,72 @@
+[
+    {
+        "student_id": 1,
+        "first_name": "John William",
+        "last_name": "Abayan",
+        "email": "jwabayan@gmail.com",
+        "contact_no": "09123456789",
+        "grade_prelims": 90,
+        "grade_midterms": 90,
+        "grade_finals": 90
+    },
+    {
+        "student_id": 2,
+        "first_name": "Cresente Jr",
+        "last_name": "Doron",
+        "email": "cdoron30@gmail.com",
+        "contact_no": "09123456789",
+        "grade_prelims": 90,
+        "grade_midterms": 90,
+        "grade_finals": 90
+    },
+    {
+        "student_id": 3,
+        "first_name": "Bryan Joel",
+        "last_name": "Guzman",
+        "email": "bjguzman@gmail.com",
+        "contact_no": "09123456789",
+        "grade_prelims": 90,
+        "grade_midterms": 90,
+        "grade_finals": 90
+    },
+    {
+        "student_id": 4,
+        "first_name": "Kenneth Edison",
+        "last_name": "Rosario",
+        "email": "kerosario@gmail.com",
+        "contact_no": "09123456789",
+        "grade_prelims": 90,
+        "grade_midterms": 90,
+        "grade_finals": 90
+    },
+    {
+        "student_id": 5,
+        "first_name": "Ralph Raci",
+        "last_name": "Salamat",
+        "email": "raci17lacra@gmail.com",
+        "contact_no": "09123456789",
+        "grade_prelims": 90,
+        "grade_midterms": 90,
+        "grade_finals": 90
+    },
+    {
+        "student_id": 6,
+        "first_name": "Ivan Daniel",
+        "last_name": "Salvame",
+        "email": "idcsalvame@gmail.com",
+        "contact_no": "09123456789",
+        "grade_prelims": 90,
+        "grade_midterms": 90,
+        "grade_finals": 90
+    },
+    {
+        "student_id": 7,
+        "first_name": "John Ephraim",
+        "last_name": "Umali",
+        "email": "jeumali@gmail.com",
+        "contact_no": "09123456789",
+        "grade_prelims": 90,
+        "grade_midterms": 90,
+        "grade_finals": 90
+    }
+]
